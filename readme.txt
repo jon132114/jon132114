@@ -1,5 +1,5 @@
 Readme:
-springCloud-Alibaba 最新项目技术栈整合 实时更新。
+springCloud-Alibaba 最新项目技术栈整合 
 同步Alibaba开源项目，同步学习；
 熔断、限流：Sentinel
 最新注册、配置中心：Nacos
