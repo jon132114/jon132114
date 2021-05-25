@@ -8,3 +8,6 @@ springCloud-Alibaba 最新项目技术栈整合
 分布式事务治理框架：Seata
 消息中间件：RabbitMq
 数据库：mysql、Redis
+
+
+Hoxton 
