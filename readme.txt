@@ -10,5 +10,7 @@ springCloud-Alibaba 最新项目技术栈整合
 数据库：mysql、Redis
 
 
-Hoxton 
+Hoxton
+
+K8s/docker/jemter
 
