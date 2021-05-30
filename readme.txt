@@ -1,1 +1,1 @@
-You made a choice. Don't look back.
+It is better to be prepared before the storm than to lose your head in it.
